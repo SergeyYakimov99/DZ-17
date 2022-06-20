@@ -7,12 +7,12 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:5000/directors/
+GET http://localhost:5000/directors/99
 Accept: application/json
 
 ###
 
-GET http://localhost:5000/directors/43333
+GET http://localhost:5000/directors/2
 Accept: application/json
 
 ###
